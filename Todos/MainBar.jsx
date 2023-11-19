@@ -1,6 +1,5 @@
 /* eslint-disable no-unused-vars */
 import { useState } from "react";
-import TopBar from "./AddTodo";
 import AddTodo from "./AddTodo";
 import Update from "./Update";
 
